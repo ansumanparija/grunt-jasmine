@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+
+  <testsuite name="util.random randomBelow" errors="0" tests="2" failures="0" time="0.008" timestamp="Tue Jan 19 2016 10:04:09 GMT+0530 (India Standard Time)">
+    
+      <testcase assertions="0" classname="util.random randomBelow" name="should multiply correctly" time="0.003">
+        
+      </testcase>
+    
+      <testcase assertions="0" classname="util.random randomBelow" name="should validate its arguments" time="0.002">
+        
+      </testcase>
+    
+  </testsuite>
+
+</testsuites>
