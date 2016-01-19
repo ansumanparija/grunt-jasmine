@@ -1,4 +1,4 @@
-jsdevenv-jasmine
+grunt-jasmine
 ================
 
 [![Build Status](https://travis-ci.org/larsthorup/jsdevenv-jasmine.png)](https://travis-ci.org/larsthorup/jsdevenv-jasmine)
