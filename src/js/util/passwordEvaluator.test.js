@@ -8,7 +8,7 @@ describe('util.passwordEvaluator', function () {
         expect(pw.strength('abc')).toBe(0);
     });
     it('should return 1 when length is larger than 4', function () {
-        expect(pw.strength('china')).toBe(1);
+        expect(pw.strength('chin')).toBe(1);
     });
     it('should return 2 when length is larger than 8', function () {
         expect(pw.strength('evaluator')).toBe(2);
