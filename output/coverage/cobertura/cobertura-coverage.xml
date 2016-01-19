@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="28"  lines-covered="28"  line-rate="1"  branches-valid="28"  branches-covered="25"  branch-rate="0.8929"  timestamp="1453178074197" complexity="0" version="0.1">
+<coverage lines-valid="28"  lines-covered="28"  line-rate="1"  branches-valid="28"  branches-covered="25"  branch-rate="0.8929"  timestamp="1453185171057" complexity="0" version="0.1">
 <sources>
 	<source>E:\CAST_AMEX\GABM\jasmine\jsdevenv-jasmine-master</source>
 </sources>
@@ -21,7 +21,7 @@
 			<line number="5"  hits="1"  branch="false" />
 			<line number="7"  hits="7"  branch="false" />
 			<line number="8"  hits="7"  branch="true"  condition-coverage="100% (2/2)" />
-			<line number="9"  hits="3"  branch="false" />
+			<line number="9"  hits="2"  branch="false" />
 			<line number="11"  hits="7"  branch="true"  condition-coverage="100% (2/2)" />
 			<line number="12"  hits="2"  branch="false" />
 			<line number="14"  hits="7"  branch="true"  condition-coverage="100% (2/2)" />
